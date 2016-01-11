@@ -1,2 +1,2 @@
 # pianopick
-Online virtual keyboard game to play midi files
+Online virtual keyboard game to play midi files.
